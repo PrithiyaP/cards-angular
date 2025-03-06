@@ -1,0 +1,20 @@
+
+.mat-elevation-z8{
+margin-top: 81px;
+}
+
+ tr:nth-child(even){background-color: #58a1ee;}
+ tr:nth-child(odd){background-color: #6655d4;}
+ th:nth-child(odd){background-color: #71dc33;}
+th:nth-child(even){background-color: #71dc33;}
+
+ tr:hover {background-color: #c1ccd8;}
+ th {
+   border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+
+  color: rgb(23, 22, 22);
+  background-color: #16c585;
+}
+

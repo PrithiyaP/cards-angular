@@ -1,0 +1,14 @@
+.navbar{
+background-color: aqua;
+color: red;
+position: fixed;
+top:0;
+left:0;
+right:0;
+height: 80px;
+border-bottom: 1px solid rgb(111, 102, 211);
+}
+h1{
+padding-left: 10px;
+padding-top:25px;
+}
